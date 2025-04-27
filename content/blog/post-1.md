@@ -1,4 +1,7 @@
-
+---
+title: "My Page with LaTeX"
+math: true
+---
 ### 朗之万方程与布朗运动：从现象到理论的随机动力学
 
 

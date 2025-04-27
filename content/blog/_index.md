@@ -1,6 +1,6 @@
 ---
-title: Documentation
-next: first-page
+title: "物理"
+math: true
 ---
 
 This is a demo of the theme's documentation layout.

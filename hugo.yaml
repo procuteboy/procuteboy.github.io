@@ -22,7 +22,7 @@ menu:
       pageRef: /docs
       weight: 1
     - name: About
-      pageRef: /about
+      pageRef: /blog
       weight: 2
     - name: Contact ↗
       url: "https://github.com/imfing"

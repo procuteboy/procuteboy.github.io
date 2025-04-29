@@ -19,13 +19,11 @@ math: true
 • 坐标系与度规：  
 
   • 全局坐标（AdS₃为例）：  
-
     \[
     ds^2 = \ell^2 \left( -\cosh^2\rho \, dt^2 + d\rho^2 + \sinh^2\rho \, d\Omega_{d-1}^2 \right)
     \]  
     彭罗斯图为“实心圆柱体”，径向坐标\(\rho\)范围\(0 \to \infty\)，时间坐标\(t\)延申无限。  
   • 庞加莱坐标（AdS₃为例）：  
-
     \[
     ds^2 = \frac{\ell^2}{z^2} \left( dz^2 - dt^2 + d\vec{x}^2 \right)
     \]  
@@ -43,13 +41,11 @@ math: true
 • 关联函数的标度行为：  
 
   • 原初算符（primary operators）的关联函数满足标度律：  
-
     \[
     \langle O_1(x_1) \cdots O_n(x_n) \rangle = \lambda^{\Delta_1+\cdots+\Delta_n} \langle O_1(\lambda x_1) \cdots O_n(\lambda x_n) \rangle
     \]  
     其中\(\Delta_i\)为算符的标度维数。  
   • 两点关联函数形式：  
-
     \[
     \langle O(x)O(y) \rangle \propto \frac{1}{|x-y|^{2\Delta}}
     \]  
@@ -84,12 +80,10 @@ math: true
 • 热力学配分函数：  
 
   • CFT与引力理论的热力学配分函数相等：  
-
     \[
     Z_{\text{CFT}}(\beta) = Z_{\text{引力}}(\beta)
     \]  
   • 半经典近似下，引力配分函数由黑洞作用量主导：  
-
     \[
     Z_{\text{引力}} \approx e^{-S_E[g_{\text{黑洞}}]}.
     \]  
@@ -98,7 +92,6 @@ math: true
   • AdS中的场\(\phi_i(\rho, x)\)对应CFT算符\(O_i(x)\)，场的质量决定算符标度维数\(\Delta\)。  
 
   • CFT关联函数通过引力场在边界的极限计算：  
-
     \[
     \langle O_1(x_1) \cdots O_n(x_n) \rangle_{\text{CFT}} \leftrightarrow \lim_{\rho \to \infty} \langle \phi_1(\rho, x_1) \cdots \phi_n(\rho, x_n) \rangle_{\text{引力}}
     \]  

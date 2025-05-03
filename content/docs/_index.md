@@ -1,18 +1,7 @@
 ---
-title: Documentation
+title: Ads/CFT学习文档
 next: first-page
 ---
 
-This is a demo of the theme's documentation layout.
+这是Ads/CFT学习文档
 
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
